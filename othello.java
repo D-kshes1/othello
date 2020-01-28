@@ -1,6 +1,3 @@
-# othello
-board game
-
 public class OthelloBoard {
 
     private int board[][];
